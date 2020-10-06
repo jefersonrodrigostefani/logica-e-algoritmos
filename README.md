@@ -7,14 +7,14 @@ Minhas idéia é fazer um "mini-curso" porém, algo objetivo e prático, não vo
 
 Vou dividir os assuntos em 8 partes:
 
-01- [Introdução "O que é e para que serve lógica de programação."](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/01.md)  
-02- [Variáveis e constantes.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/02.md)  
-03- [Tipos de variáveis e identificadores.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/03.md)  
-04- [Operadores - Aritméticos, Relacionais e Lógicos.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/04.md)  
-05- [Estruturas de condição e seleção.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/05.md)  
-06- [Estruturas de repetição.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/06.md)  
-07- [Funções e procedimentos.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/07.md)  
-08- [Vetores e matrizes.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/08.md)
+01- [Introdução "O que é e para que serve lógica de programação."](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/blob/main/01.md)  
+02- [Variáveis e constantes.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/blob/main/02.md)  
+03- [Tipos de variáveis e identificadores.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/blob/main/03.md)  
+04- [Operadores - Aritméticos, Relacionais e Lógicos.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/blob/main/04.md)  
+05- [Estruturas de condição e seleção.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/blob/main/05.md)  
+06- [Estruturas de repetição.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/blob/main/06.md)  
+07- [Funções e procedimentos.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/blob/main/07.md)  
+08- [Vetores e matrizes.](https://github.com/jefersonrodrigostefani/logica-e-algoritmos/blob/main/08.md)
 
 Para cada assunto será proposto a resolução de alguns exercícios, facilitando assim a compreensão do que foi apreendido.
 
