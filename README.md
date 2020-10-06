@@ -1,5 +1,5 @@
 # Lógica e Algoritmos
-Bem vindo ao curso de lógica de programação e algoritmos! Esse curso foi escrito por mim em meados de 2009 para o famigerado fórum (pcforum.com.br) ao qual tive a oportunidade aprender e de contribuir.
+Bem vindo ao curso de lógica de programação e algoritmos! Esse curso foi escrito por mim em meados de 2009 para o famigerado fórum (pcforum.com.br) ao qual tive a oportunidade de aprender e de contribuir.
 
 Pretendo postar nesse mesmo espaço sobre a tão falada lógica de programação que pra quem está iniciando pode parecer confuso e dar um certo nó na cabeça.
 
